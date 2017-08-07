@@ -1,0 +1,9 @@
+D:\C# Projects\FaceCheckInApp\FaceCompareTool\bin\Debug\FaceCompareTool.dll
+D:\C# Projects\FaceCheckInApp\FaceCompareTool\bin\Debug\FaceCompareTool.pdb
+D:\C# Projects\FaceCheckInApp\FaceCompareTool\bin\Debug\HttpConnect.dll
+D:\C# Projects\FaceCheckInApp\FaceCompareTool\bin\Debug\Newtonsoft.Json.dll
+D:\C# Projects\FaceCheckInApp\FaceCompareTool\bin\Debug\log4net.dll
+D:\C# Projects\FaceCheckInApp\FaceCompareTool\bin\Debug\HttpConnect.pdb
+D:\C# Projects\FaceCheckInApp\FaceCompareTool\obj\Debug\FaceCompareTool.csprojResolveAssemblyReference.cache
+D:\C# Projects\FaceCheckInApp\FaceCompareTool\obj\Debug\FaceCompareTool.dll
+D:\C# Projects\FaceCheckInApp\FaceCompareTool\obj\Debug\FaceCompareTool.pdb

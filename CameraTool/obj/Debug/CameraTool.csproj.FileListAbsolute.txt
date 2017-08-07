@@ -1,0 +1,17 @@
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\CameraTool.dll
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\CameraTool.pdb
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Controls.dll
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.dll
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Imaging.dll
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Video.DirectShow.dll
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Video.dll
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Math.dll
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.xml
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Controls.xml
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Imaging.xml
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Video.xml
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Video.DirectShow.xml
+D:\C# Projects\FaceCheckInApp\CameraTool\bin\Debug\AForge.Math.xml
+D:\C# Projects\FaceCheckInApp\CameraTool\obj\Debug\CameraTool.csprojResolveAssemblyReference.cache
+D:\C# Projects\FaceCheckInApp\CameraTool\obj\Debug\CameraTool.dll
+D:\C# Projects\FaceCheckInApp\CameraTool\obj\Debug\CameraTool.pdb

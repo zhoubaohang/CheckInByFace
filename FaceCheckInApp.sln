@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceCheckInApp", "FaceCheckInApp\FaceCheckInApp.csproj", "{1AA2AF61-4EFA-4114-8C5D-21E8DDDB90C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraTool", "CameraTool\CameraTool.csproj", "{C095B706-F1F5-4BD4-AA06-A7838D23A46E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSizeForm", "AutoSizeForm\AutoSizeForm.csproj", "{289DF96C-D5C6-44DC-9E56-9C47FD3201AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpConnect", "HttpConnect\HttpConnect.csproj", "{6CEE1A0A-949F-44A3-8220-4540EB340FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceCompareTool", "FaceCompareTool\FaceCompareTool.csproj", "{64F70A1B-3A2F-482B-AB7E-1E83ECED0003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDBTool", "SQLDBTool\SQLDBTool.csproj", "{3B714A83-4BA6-4923-95B1-378E2D7CF080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckInTools", "CheckInTools\CheckInTools.csproj", "{A700A89C-D770-417F-81CD-881A450F70EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA2AF61-4EFA-4114-8C5D-21E8DDDB90C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA2AF61-4EFA-4114-8C5D-21E8DDDB90C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA2AF61-4EFA-4114-8C5D-21E8DDDB90C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA2AF61-4EFA-4114-8C5D-21E8DDDB90C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C095B706-F1F5-4BD4-AA06-A7838D23A46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C095B706-F1F5-4BD4-AA06-A7838D23A46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C095B706-F1F5-4BD4-AA06-A7838D23A46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C095B706-F1F5-4BD4-AA06-A7838D23A46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289DF96C-D5C6-44DC-9E56-9C47FD3201AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289DF96C-D5C6-44DC-9E56-9C47FD3201AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289DF96C-D5C6-44DC-9E56-9C47FD3201AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289DF96C-D5C6-44DC-9E56-9C47FD3201AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CEE1A0A-949F-44A3-8220-4540EB340FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEE1A0A-949F-44A3-8220-4540EB340FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEE1A0A-949F-44A3-8220-4540EB340FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEE1A0A-949F-44A3-8220-4540EB340FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F70A1B-3A2F-482B-AB7E-1E83ECED0003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F70A1B-3A2F-482B-AB7E-1E83ECED0003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F70A1B-3A2F-482B-AB7E-1E83ECED0003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F70A1B-3A2F-482B-AB7E-1E83ECED0003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B714A83-4BA6-4923-95B1-378E2D7CF080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B714A83-4BA6-4923-95B1-378E2D7CF080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B714A83-4BA6-4923-95B1-378E2D7CF080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B714A83-4BA6-4923-95B1-378E2D7CF080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A700A89C-D770-417F-81CD-881A450F70EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A700A89C-D770-417F-81CD-881A450F70EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A700A89C-D770-417F-81CD-881A450F70EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A700A89C-D770-417F-81CD-881A450F70EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\C# Projects\FaceCheckInApp\HttpConnect\bin\Debug\HttpConnect.dll
+D:\C# Projects\FaceCheckInApp\HttpConnect\bin\Debug\HttpConnect.pdb
+D:\C# Projects\FaceCheckInApp\HttpConnect\bin\Debug\log4net.dll
+D:\C# Projects\FaceCheckInApp\HttpConnect\obj\Debug\HttpConnect.csprojResolveAssemblyReference.cache
+D:\C# Projects\FaceCheckInApp\HttpConnect\obj\Debug\HttpConnect.dll
+D:\C# Projects\FaceCheckInApp\HttpConnect\obj\Debug\HttpConnect.pdb

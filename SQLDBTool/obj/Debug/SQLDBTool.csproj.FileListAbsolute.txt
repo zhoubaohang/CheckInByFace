@@ -1,0 +1,5 @@
+D:\C# Projects\FaceCheckInApp\SQLDBTool\bin\Debug\SQLDBTool.dll
+D:\C# Projects\FaceCheckInApp\SQLDBTool\bin\Debug\SQLDBTool.pdb
+D:\C# Projects\FaceCheckInApp\SQLDBTool\obj\Debug\SQLDBTool.csprojResolveAssemblyReference.cache
+D:\C# Projects\FaceCheckInApp\SQLDBTool\obj\Debug\SQLDBTool.dll
+D:\C# Projects\FaceCheckInApp\SQLDBTool\obj\Debug\SQLDBTool.pdb

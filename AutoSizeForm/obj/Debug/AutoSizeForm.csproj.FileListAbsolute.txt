@@ -1,0 +1,5 @@
+D:\C# Projects\FaceCheckInApp\AutoSizeForm\obj\Debug\AutoSizeForm.csprojResolveAssemblyReference.cache
+D:\C# Projects\FaceCheckInApp\AutoSizeForm\bin\Debug\AutoSizeForm.dll
+D:\C# Projects\FaceCheckInApp\AutoSizeForm\bin\Debug\AutoSizeForm.pdb
+D:\C# Projects\FaceCheckInApp\AutoSizeForm\obj\Debug\AutoSizeForm.dll
+D:\C# Projects\FaceCheckInApp\AutoSizeForm\obj\Debug\AutoSizeForm.pdb
